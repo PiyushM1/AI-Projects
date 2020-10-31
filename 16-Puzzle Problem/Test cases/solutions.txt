@@ -1,0 +1,77 @@
+initial_state1.txt
+4 2 6 3
+8 1 7 B
+C 5 0 F
+D 9 A E
+
+optimal solution length: 14
+sample path: ['Down', 'Right', 'Up', 'Up', 'Left', 'Up', 'Left', 'Down', 'Down', 'Down', 'Left', 'Up', 'Up', 'Up']
+
+
+initial_state2.txt
+4 1 3 2
+E C 5 B
+0 7 8 A
+9 6 D F
+
+optimal solution length: 36
+sample path: ['Up', 'Right', 'Down', 'Down', 'Left', 'Up', 'Up', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Down', 'Down', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Right', 'Down', 'Left', 'Up', 'Right', 'Right', 'Up', 'Left', 'Up', 'Right', 'Down', 'Left', 'Left', 'Up', 'Left']
+
+
+initial_state3.txt
+8 2 7 3
+9 4 5 B
+1 C 6 E
+F A D 0
+
+optimal solution length: 40
+sample path: ['Left', 'Left', 'Left', 'Up', 'Right', 'Right', 'Up', 'Up', 'Left', 'Down', 'Down', 'Right', 'Down', 'Left', 'Left', 'Up', 'Right', 'Right', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Right', 'Up', 'Up', 'Left', 'Left', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Down', 'Left', 'Up', 'Up']
+
+initial_state4.txt
+4 6 2 9
+C 5 A 0
+8 F 7 B
+D 3 E 1
+
+optimal solution length: 44
+sample path: ['Left', 'Down', 'Left', 'Down', 'Right', 'Up', 'Left', 'Left', 'Up', 'Right', 'Up', 'Right', 'Down', 'Right', 'Down', 'Down', 'Left', 'Left', 'Left', 'Up', 'Right', 'Up', 'Right', 'Down', 'Right', 'Up', 'Up', 'Left', 'Down', 'Down', 'Left', 'Up', 'Right', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Down', 'Left', 'Up', 'Left', 'Up']
+
+
+initial_state5.txt
+B 1 4 3
+F 5 0 D
+6 C 7 E
+8 2 9 A
+
+optimal solution length: 49
+sample path: ['Left', 'Down', 'Down', 'Right', 'Right', 'Up', 'Left', 'Left', 'Up', 'Left', 'Up', 'Right', 'Right', 'Down', 'Down', 'Down', 'Left', 'Up', 'Up', 'Up', 'Right', 'Down', 'Down', 'Left', 'Left', 'Up', 'Right', 'Right', 'Right', 'Down', 'Left', 'Up', 'Left', 'Down', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Up', 'Left', 'Up', 'Left']
+
+
+initial_state6.txt
+6 2 0 F
+C A 4 B
+5 8 7 E
+3 1 9 D
+
+optimal solution length: 50
+sample path: ['Down', 'Left', 'Down', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Right', 'Up', 'Up', 'Left', 'Down', 'Right', 'Up', 'Left', 'Left', 'Down', 'Right', 'Right', 'Right', 'Up', 'Left', 'Left', 'Down', 'Down', 'Down', 'Right', 'Right', 'Up', 'Up', 'Left', 'Left', 'Down', 'Down', 'Right', 'Right', 'Up', 'Up', 'Left', 'Up', 'Left', 'Left']
+
+
+initial_state7.txt
+E 5 0 7
+4 D 8 2
+C F A 9
+B 3 1 6
+
+optimal solution length: 52
+sample path: ['Left', 'Left', 'Down', 'Right', 'Right', 'Down', 'Down', 'Left', 'Left', 'Up', 'Up', 'Right', 'Right', 'Down', 'Down', 'Left', 'Up', 'Up', 'Up', 'Right', 'Down', 'Down', 'Right', 'Down', 'Left', 'Left', 'Up', 'Up', 'Up', 'Right', 'Down', 'Right', 'Up', 'Left', 'Down', 'Down', 'Right', 'Down', 'Left', 'Left', 'Up', 'Left', 'Up', 'Right', 'Right', 'Down', 'Down', 'Left', 'Up', 'Up', 'Left', 'Up']
+
+
+initial_state8.txt
+5 0 4 E
+6 2 F A
+B 9 C D
+3 8 1 7
+
+optimal solution length: 55
+sample path: ['Down', 'Down', 'Left', 'Down', 'Right', 'Right', 'Up', 'Left', 'Left', 'Up', 'Right', 'Down', 'Down', 'Right', 'Up', 'Right', 'Down', 'Left', 'Up', 'Up', 'Left', 'Up', 'Right', 'Down', 'Left', 'Down', 'Left', 'Up', 'Up', 'Right', 'Down', 'Down', 'Left', 'Down', 'Right', 'Right', 'Up', 'Right', 'Up', 'Up', 'Left', 'Down', 'Down', 'Right', 'Up', 'Left', 'Down', 'Right', 'Down', 'Left', 'Up', 'Up', 'Left', 'Left', 'Up']
